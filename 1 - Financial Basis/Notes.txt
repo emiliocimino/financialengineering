@@ -1,0 +1,14 @@
+In financial world, we want to pick data from ever updated sources.
+In this course we are using historical data for educational purposes.
+
+
+Financial data can be analyzed in two ways:
+- technical analysis (i.e. stock price and volumes) -> Interested
+- financial statemens (i.e what an accountant would see) -> Not interested
+
+
+Stock return: how much the stock goes up and down in a given period:
+most modeling and calculation we are making are focused on return rather than price.
+Modeling Stock:
+	Understand a distribution of returns (probability, expected value, volatility)
+	Return are not necessarily normally distributed
